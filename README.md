@@ -1,8 +1,8 @@
 <img src="assets/banner.svg" alt="Processos que viram sistemas. SAP, ERP, Marketplace, Dados e IA." width="100%"/>
 
-## Olá, eu sou a Adélia Modesto
+## Hi, I'm Adélia Modesto
 
-Analista de Dados e Processos, com 14 anos de experiência em operações, compras, ERP e e-commerce. Transformo dados operacionais em decisões: margem por canal, curva ABC, ROAS, conversão e indicadores de atendimento.
+Data and Process Analyst with 14 years of experience in operations, procurement, ERP and e-commerce. I turn operational data into decisions: margin by channel, ABC curve, ROAS, conversion and customer service indicators. I connect what the operation needs to what the system delivers.
 
 <table align="center">
 <tr>
