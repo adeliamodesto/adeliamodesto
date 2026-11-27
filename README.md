@@ -2,15 +2,15 @@
 
 ## Hi, I'm Adélia Modesto
 
-Data and Process Analyst with 14 years of experience in operations, procurement, ERP and e-commerce. I turn operational data into decisions: margin by channel, ABC curve, ROAS, conversion and customer service indicators. I connect what the operation needs to what the system delivers.
+Analista de Sistemas e Negócios com mais de dez anos em supply chain, vendas e operações, com base sólida em SAP, ERP e processos. Conecto o que a operação precisa ao que o sistema entrega: cadastro, compras, estoque, pedido e canal de venda.
 
 <table align="center">
 <tr>
-<td align="center"><h2>14</h2>anos em operações,<br/>compras, ERP e e-commerce</td>
+<td align="center"><h2>10+</h2>anos em supply chain,<br/>vendas e operações</td>
 <td align="center"><h2>9+</h2>anos de SAP<br/>(MM e PM)</td>
-<td align="center"><h2>6</h2>marketplaces<br/>integrados ao ERP</td>
-<td align="center"><h2>1.200</h2>SKUs<br/>no ERP</td>
-<td align="center"><h2>600</h2>pedidos por mês<br/>(média)</td>
+<td align="center"><h2>180</h2>ordens de serviço por mês<br/>integradas às compras (SAP)</td>
+<td align="center"><h2>4 mil+</h2>SKUs em estoque<br/>na operação atual</td>
+<td align="center"><h2>3.500+</h2>pedidos por mês<br/>na operação atual</td>
 </tr>
 </table>
 
@@ -18,7 +18,7 @@ Data and Process Analyst with 14 years of experience in operations, procurement,
 
 | Sistemas e ERP | Marketplace e e-commerce | Dados e IA |
 | --- | --- | --- |
-| Usei o **SAP (MM e PM)** de 2011 a 2020, do ECC ao S/4HANA, com testes na migração e operação no SAP Fiori. | Implantei do zero o **ERP Bling** e a integração com **6 marketplaces** em um varejo 100% físico. | Margem por canal, curva ABC, ROAS e conversão, com **IA e automações** no dia a dia: Claude, ChatGPT, Gemini, Copilot, NotebookLM e n8n. |
+| Usei **SAP MM e PM** por mais de nove anos em compras, materiais e assistência técnica, do ECC ao S/4HANA. Participei, como usuária, da migração e passei a operar no SAP Fiori. | Conduzo a operação digital de uma empresa multicanal: **Mercado Livre**, ERP (**Bling** e **Magis5**), catálogo, precificação por margem, ruptura de estoque, reputação e e-commerce próprio na **Nuvemshop**. | Indicadores e dashboards em **Power BI**, **SQL** e Excel avançado, com **IA aplicada à rotina**: Claude, ChatGPT, Gemini, Copilot, NotebookLM e n8n. |
 
 ### Ferramentas
 
@@ -26,14 +26,16 @@ Data and Process Analyst with 14 years of experience in operations, procurement,
 <br/>
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
 <img src="https://img.shields.io/badge/Bling-2E7D32?style=flat-square" alt="Bling"/>
+<img src="https://img.shields.io/badge/Magis5-5B3FD1?style=flat-square" alt="Magis5"/>
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/>
 
-**E-commerce e atendimento**
+**Marketplace e e-commerce**
 <br/>
+<img src="https://img.shields.io/badge/Mercado%20Livre-FFE600?style=flat-square" alt="Mercado Livre"/>
+<img src="https://img.shields.io/badge/Nuvemshop-0050C3?style=flat-square" alt="Nuvemshop"/>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
 <img src="https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white" alt="Zendesk"/>
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp"/>
 
 **Dados**
 <br/>
